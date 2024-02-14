@@ -1,21 +1,18 @@
 @echo off
-echo ƒGƒ‰[‚ª”­¶‚µ‚½‚½‚ßƒ†[ƒU[–¼‚ª“Ç‚Ýž‚ß‚Ü‚¹‚ñ‚Å‚µ‚½
-echo C:\Users\Users„
+echo ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸãŸã‚ãƒ¦ãƒ¼ã‚¶ãƒ¼åãŒèª­ã¿è¾¼ã‚ã¾ã›ã‚“ã§ã—ãŸ
+echo C:\Users\Usersï¼ž
 timeout /nobreak 1 >null
-echo ƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½
-echo C³‚·‚é‚½‚ß‚É‚Í‰½‚©ƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢
+echo ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ
+echo ä¿®æ­£ã™ã‚‹ãŸã‚ã«ã¯ä½•ã‹ã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„
 pause
-echo msgbox "ƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½",vbCritical,"ƒGƒ‰[" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo msgbox "ƒGƒ‰[‚ª”­¶‚µ‚½",vbCritical,"ƒGƒ‰[" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo msgbox "ƒGƒ‰[‚ª”­¶",vbCritical,"ƒGƒ‰[" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo msgbox "ƒGƒ‰[”­¶",vbCritical,"ƒGƒ‰[" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo msgbox "ƒGƒ‰[",vbCritical,"ƒGƒ‰[" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo msgbox "‚â‚®‚™ƒ”‚¥‚–‚ƒ‚‚‚ˆ‚‚‚ñ‚¶‚¥‚ˆ‚­ƒ”‚¥‚‡‚ˆ",vbCritical,"‚È‚‚‚–‚ƒ‚“‚†‚—‚™‚‡" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
-echo ƒGƒ‰[‚ª”­¶‚µ‚½‚½‚ßcmd‚ðÄ‹N“®‚µ‚Ü‚·
-timeout /nobreak 2 >null
-echo ‚Â‚¢‚Å‚ÉƒGƒNƒXƒvƒ[ƒ‰[‚à‹­§I—¹‚µ‚Ü‚·
-timeout /nobreak 2 >null
-echo ‚ ‚Æ‚Â‚¢‚Å‚Éƒ^ƒXƒNƒ}ƒl[ƒWƒƒ[‹N“®‚µ‚Æ‚«‚Ü‚·
-timeout /nobreak 3 >null
+echo msgbox "ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ",vbCritical,"ã‚¨ãƒ©ãƒ¼" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo msgbox "ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸ",vbCritical,"ã‚¨ãƒ©ãƒ¼" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo msgbox "ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿ",vbCritical,"ã‚¨ãƒ©ãƒ¼" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo msgbox "ã‚¨ãƒ©ãƒ¼ç™ºç”Ÿ",vbCritical,"ã‚¨ãƒ©ãƒ¼" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo msgbox "ã‚¨ãƒ©ãƒ¼",vbCritical,"ã‚¨ãƒ©ãƒ¼" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo msgbox "ã‚„ãï½™ãƒ´ã‡ï½–ï½ƒï½‚ï½ˆï½‚ã‚“ã˜ã‡ï½ˆããƒ´ã‡ï½‡ï½ˆ",vbCritical,"ãªï½‚ï½–ï½ƒï½“ï½†ï½—ï½™ï½‡" > %TEMP%/msgboxtest.vbs & %TEMP%/msgboxtest.vbs
+echo ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸãŸã‚cmdã‚’å†èµ·å‹•ã—ã¾ã™
+echo ã¤ã„ã§ã«ã‚¨ã‚¯ã‚¹ãƒ—ãƒ­ãƒ¼ãƒ©ãƒ¼ã‚‚å¼·åˆ¶çµ‚äº†ã—ã¾ã™
+echo ã‚ã¨ã¤ã„ã§ã«ã‚¿ã‚¹ã‚¯ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼èµ·å‹•ã—ã¨ãã¾ã™
 start taskmgr.exe >nul
 taskkill /f /im explorer.exe >nul
